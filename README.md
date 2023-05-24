@@ -22,6 +22,9 @@ Tweep API has a vibrant developer community, with extensive documentation, tutor
 It's important to note that when using Tweep API and Twarc, developers need to adhere to Twitter's API usage policies and guidelines. These include respecting user privacy, complying with rate limits, and ensuring appropriate usage of the collected data.
 In conclusion, Tweep API combined with Twarc provides a convenient and powerful way to interact with the Twitter platform programmatically. It simplifies authentication, offers various methods for data retrieval, handles rate limits, supports streaming, enables data analysis, and facilitates data archiving. Whether you need to retrieve real-time tweets, analyze historical data, or perform social media monitoring, Tweep API and Twarc are valuable tools in your NLP and Twitter data analysis toolkit.
 
+# Developer: Dr. Partha Majumder
+# Email:parthamajpk@gmail.com
+
 
 
 
